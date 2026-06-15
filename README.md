@@ -143,10 +143,7 @@ MIT License
 ## 👥 团队
 
 - **项目负责人**: LOUDOU-OtervretO
-- **开发团队**: [待补充]
-- **维护者**: [待补充]
-
-## 📞 联系方式
+## 📞 联系方式：18938282426
 
 - 📧 Email: support@campus-nav.local
 - 💬 Issues: [GitHub Issues](https://github.com/LOUDOU-OtervretO/campus-navigation/issues)
